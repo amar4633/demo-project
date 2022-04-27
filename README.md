@@ -1,3 +1,4 @@
+[![Contributors](https://img.shields.io/github/contributors/amar4633/demo-project)](https://img.shields.io/github/contributors/amar4633/demo-project)
 # demo-project
 ```
 Hello this is a code block
